@@ -1,8 +1,6 @@
 # README
 
-First Ruby on Rails Application
-
-Things you may want to cover:
+First Ruby on Rails Application.
 
 * Ruby 3.0.6
 
